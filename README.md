@@ -74,15 +74,16 @@ Editor → Edit and review content
 Author → Create and manage own posts
 
 
-
-For more details contact:
-Aryan
-flexaryan123@gmail.com
-8299879214
-
 📚 Learning Outcomes
 Practical Django project structure
 Authentication & authorization
 Database relationships & models
 Real-world backend logic
 Deployment workflow
+
+----
+
+## For more details contact:
+Aryan
+flexaryan123@gmail.com
+8299879214
